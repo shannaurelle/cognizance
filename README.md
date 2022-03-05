@@ -2,6 +2,8 @@
 
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 [![GitHub latest commit](https://badgen.net/github/last-commit/shannaurelle/cognizance)](https://GitHub.com/shannaurelle/cognizance/commit/)
+[![GitHub branches](https://badgen.net/github/branches/shannaurelle/cognizance)](https://github.com/shannaurelle/cognizance/)
+
 
 Public Repository for COGNIZANCE - A Human Rights App for NSTP-CWTS 3 
 
