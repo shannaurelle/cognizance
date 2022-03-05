@@ -2,7 +2,12 @@
 Public Repository for COGNIZANCE - A Human Rights App for NSTP-CWTS 3 
 
 ## Installation ##
-Read this article first before installing: [https://github.com/kivy/kivy/issues/6806#issuecomment-608176268](https://github.com/kivy/kivy/issues/6806#issuecomment-608176268)
+
+#### Python ####
+Install Python 3.10.2 [https://www.python.org/downloads/](https://www.python.org/downloads/)
+
+#### Kivy #####
+Read this article first before installing Kivy: [https://github.com/kivy/kivy/issues/6806#issuecomment-608176268](https://github.com/kivy/kivy/issues/6806#issuecomment-608176268)
 Install Kivy: [https://kivy.org/doc/stable/gettingstarted/installation.html#](https://kivy.org/doc/stable/gettingstarted/installation.html#)
 Follow the virtual environment method. Here are the versions for the Python modules:
 
