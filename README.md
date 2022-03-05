@@ -1,4 +1,4 @@
-# COGNIZANCE [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) 
+# COGNIZANCE [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) 
 
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 [![GitHub latest commit](https://badgen.net/github/last-commit/shannaurelle/cognizance)](https://GitHub.com/shannaurelle/cognizance/commit/)
