@@ -1,4 +1,4 @@
-# COGNIZANCE
+# COGNIZANCE [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 Public Repository for COGNIZANCE - A Human Rights App for NSTP-CWTS 3 
 
 ## Installation ##
