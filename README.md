@@ -69,6 +69,8 @@ requests==2.27.1
 
 urllib3==1.26.8
 
+#### Tutorials? ####
 
+The Kivy documentation offers a great reference through its Pong app example. You can check it out [here](https://kivy.org/doc/stable/tutorials/pong.html)
 
 
