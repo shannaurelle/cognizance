@@ -37,7 +37,7 @@ charset-normalizer==2.0.12
 
 docutils==0.18.1
 
-future==0.18.
+future==0.18.2
 
 idna==3.3
 
