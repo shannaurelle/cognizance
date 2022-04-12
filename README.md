@@ -16,11 +16,16 @@ Public Repository for COGNIZANCE - A Human Rights App for NSTP-CWTS 3
 3. Click the ADD to PATH option 
 4. Once done, update pip and setuptools to the latest version
 5. Install virtualenv in python if you haven't done it yet
-#### Github ####
+
+#### Github (DO THESE THINGS FIRST) ####
 1. Clone this repository
 2. Put it on the folder of your choice
 3. Create a virtualenv folder inside the repository
 4. Make sure the virtualenv folder initialized is included in the .gitignore file to avoid sending it to github repo
+
+#### KivyMD ####
+1. Install Kivy first (instructions given below)
+3. Follow the README documentation of KivyMD to install kivyMD: [https://github.com/kivymd/KivyMD](https://github.com/kivymd/KivyMD)
 
 #### Kivy #####
 1. Download the Kivy binary here: [https://www.lfd.uci.edu/~gohlke/pythonlibs/](https://www.lfd.uci.edu/~gohlke/pythonlibs/)
