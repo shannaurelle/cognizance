@@ -8,6 +8,9 @@
 
 Public Repository for COGNIZANCE - A Human Rights App for NSTP-CWTS 3 
 
+## Prototype ##
+Figma : [link here](https://www.figma.com/proto/NIZDiFJoNPICeDoLymibtP/Cognizance?node-id=47%3A2800&scaling=scale-down&page-id=12%3A2)
+
 ## Installation ##
 
 #### Python ####
