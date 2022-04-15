@@ -81,4 +81,15 @@ urllib3==1.26.8
 
 The Kivy documentation offers a great reference through its Pong app example. You can check it out [here](https://kivy.org/doc/stable/tutorials/pong.html)
 
+## Testing ##
 
+### Desktop ### 
+
+1. Download Python 
+2. Run the program using 
+``` python name-of-program.py```
+
+### Android ###
+
+1. Download Pydroid 3 
+2. Run the program on Pydroid 3 [click for guide article](https://www.makeuseof.com/install-pydroid-android/)
