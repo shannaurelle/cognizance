@@ -96,4 +96,4 @@ The Kivy documentation offers a great reference through its Pong app example. Yo
 
 ## Contributing ##
 
-If you want to add a new feature, send your new feature to a new branch and send a pull request. The label mergeable feature should appear if it is ready to merge with the master branch.
+If you want to add a new feature, send your new feature to a new branch and send a pull request. The label mergeable feature should appear if it is ready to merge with the master branch. The maintainer / collaborator should place the label, and the feature will soon be merged!
