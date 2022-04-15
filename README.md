@@ -93,3 +93,7 @@ The Kivy documentation offers a great reference through its Pong app example. Yo
 
 1. Download Pydroid 3 
 2. Run the program on Pydroid 3 [click for guide article](https://www.makeuseof.com/install-pydroid-android/)
+
+## Contributing ##
+
+If you want to add a new feature, send your new feature to a new branch and send a pull request. The label mergeable feature should appear if it is ready to merge with the master branch.
